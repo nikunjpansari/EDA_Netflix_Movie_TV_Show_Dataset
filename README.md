@@ -1,4 +1,4 @@
-# Exploratory Data Analysis and Data Visualization of Betflix Movie & TV Show Dataset
+# Exploratory Data Analysis and Data Visualization of[ Netflix Movie & TV Show Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows/code?datasetId=434238&sortBy=voteCount)
 
 ## Introduction
 
@@ -8,8 +8,9 @@ In this analysis, we'll explore the Betflix Movie & TV Show dataset to gain insi
 
 Before we begin, make sure to install the required libraries:
 
-``bash
-pip install pandas matplotlib seaborn
+* pandas
+* matplotlib
+* seaborn
 
 ## Data Exploration
 * Load the dataset using Pandas.
@@ -22,4 +23,3 @@ pip install pandas matplotlib seaborn
 * Visualize the distribution of ratings using a histogram.
 * Visualize the distribution of genres using a bar plot.
 * Visualize the correlation matrix using a heatmap.
-* Adjust the code as needed based on your dataset structure and specific analysis requirements.
