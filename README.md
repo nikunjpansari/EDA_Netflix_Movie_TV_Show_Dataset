@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this analysis, we'll explore the Betflix Movie & TV Show dataset to gain insights and visualize interesting patterns in the data.
+This project focuses on conducting Exploratory Data Analysis (EDA) and creating Data Visualizations using the Netflix Movie & TV Show dataset. The dataset contains information about the titles available on the popular streaming platform Netflix, including details like title, type (movie or TV show), director, cast, country, release year, rating, duration, and listed in.
 
 ## Setup
 
@@ -23,3 +23,10 @@ Before we begin, make sure to install the required libraries:
 * Visualize the distribution of ratings using a histogram.
 * Visualize the distribution of genres using a bar plot.
 * Visualize the correlation matrix using a heatmap.
+
+## Key Findings
+* Distribution of movies vs. TV shows.
+* Most common countries for production.
+* Trend analysis of content released over the years.
+* Analysis of content ratings.
+* Duration distribution of movies and TV shows.
